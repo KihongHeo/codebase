@@ -1,0 +1,59 @@
+# A
+git@github.com:armadillica/dillo.git
+git@github.com:autotrace/autotrace.git
+git@github.com:gittup/binutils.git
+git@github.com:gpg/boa.git
+# C
+git@github.com:corosync/corosync.git
+git@github.com:curl/curl.git
+# G
+git@github.com:GNOME/gdk-pixbuf.git
+git@github.com:GNOME/gimp.git
+git@github.com:git/git.git
+git@github.com:bminor/glibc.git
+git@github.com:allinurl/goaccess.git
+git@github.com:embedthis/goahead.git
+https://git.savannah.gnu.org/git/grep.git
+# H
+git@github.com:h2o/h2o.git
+git@github.com:ImageMagick/ImageMagick.git
+# J
+git@github.com:mdadams/jasper.git
+git@github.com:stedolan/jq.git
+git@github.com:mwarning/KadNode.git
+git@github.com:DanBloomberg/leptonica.git
+git@github.com:freedesktop/libXcursor.git
+git@github.com:libgit2/libgit2.git
+git@github.com:libming/libming.git
+https://gitlab.com/libtiff/libtiff.git
+git@github.com:LibVNC/libvncserver.git
+git@github.com:ckolivas/lrzip.git
+# M
+git@github.com:robertdavidgraham/masscan.git
+git@github.com:memcached/memcached.git
+git@github.com:mozilla/mozjpeg.git
+git@github.com:strohel/mp3gain.git
+git@github.com:uclouvain/openjpeg.git
+git@github.com:php/php-src.git
+git@github.com:pjsip/pjproject.git
+git@github.com:kornelski/pngquant.git
+git@github.com:pts/sam2p.git
+# R
+git@github.com:radare/radare2.git
+git@github.com:antirez/redis.git
+git://git.sv.gnu.org/sed
+#https://git.strongswan.org/strongswan.git
+git@github.com:matthiaskramm/swftools.git
+# T
+https://git.savannah.gnu.org/git/tar.git
+git@github.com:ggreer/the_silver_searcher.git
+git@github.com:tmux/tmux.git
+# U
+git@github.com:LuaDist/unzip.git
+git@github.com:unbit/uwsgi.git
+git@github.com:vim/vim.git
+git@github.com:videolan/vlc.git
+git@github.com:LibVNC/vncterm.git
+git@github.com:wg/wrk.git
+https://git.savannah.gnu.org/git/wget.git
+git@github.com:zsh-users/zsh.git
